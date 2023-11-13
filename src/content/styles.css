@@ -1,3 +1,11 @@
-body {
-    background: rgba(232, 240, 254, 0.4) !important;
+.hidden {
+    display: none;
+}
+
+.alreadyInjected {
+    cursor: pointer;
+}
+
+.diff-selected {
+    background-color: #e3bcf6 !important;
 }

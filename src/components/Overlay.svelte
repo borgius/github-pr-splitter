@@ -18,10 +18,10 @@
     .overlay {
         position: fixed;
         width: 300px;
-        top: 16px;
+        top: 116px;
         left: 16px;
-        background-color: white;
-        border: 1px solid black;
+        background-color: rgb(255, 255, 255);
+        border: 1px solid rgb(153, 71, 71);
         padding: 16px;
     }
 </style>
